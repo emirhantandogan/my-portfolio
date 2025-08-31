@@ -53,7 +53,7 @@
     "projectUrl": "https://emirhantandogan.itch.io/dream-dungeon",
     "repo": null,
     "demo": null,
-    "image": "/images/dreamdungeon.png",
+    "image": "./images/dreamdungeon.png",
     "description": "A solo-developed 2D Top Down Shooter Rogue-Like mobile game with randomized dungeons and enemies.",
     "highlights": [
       "Implemented randomized dungeon generation and enemy AI with increasing difficulty",
@@ -68,7 +68,7 @@
     "projectUrl": "https://emirhantandogan.itch.io/partyhide",
     "repo": null,
     "demo": null,
-    "image": "/images/partyhide.png",
+    "image": "./images/partyhide.png",
     "description": "A 3D third-person multiplayer hide-and-seek party game developed solo using Unity and Photon Engine.",
     "highlights": [
       "Implemented multiple hide-and-seek game modes and themed maps",
