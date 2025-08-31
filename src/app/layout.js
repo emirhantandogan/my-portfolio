@@ -4,10 +4,10 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 
 export const metadata = {
   title: {
-    default: 'Zeynep Tandogan',
-    template: '%s | Zeynep Tandogan',
+    default: 'Emirhan Tandogan',
+    template: '%s | Emirhan Tandogan',
   },
-  description: 'EPFL MSc — Data Science, ML, LLMs, scalable AI systems.',
+  description: 'BSc in Computer Science',
   icons: {
     icon: '/favicon.ico',
     shortcut: '/favicon.ico',
@@ -28,7 +28,7 @@ export default function RootLayout({ children }) {
                 <li className="nav-item"><a className="nav-link" href="#education">Education</a></li>
                 <li className="nav-item"><a className="nav-link" href="#experience">Experience</a></li>
                 <li className="nav-item"><a className="nav-link" href="#projects">Projects</a></li>
-                <li className="nav-item"><a className="nav-link" href="#publications">Publications</a></li>
+                {/* <li className="nav-item"><a className="nav-link" href="#publications">Publications</a></li> */}
               </ul>
             </div>
           </div>

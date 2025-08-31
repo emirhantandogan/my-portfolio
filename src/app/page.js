@@ -47,9 +47,9 @@ export default function Home() {
           <div className="section-body"><Project /></div>
         </section>
 
-        <section className="snap-section" id="publications">
-          <div className="section-body"><Publications /></div>
-        </section>
+        {/*<section className="snap-section" id="publications">
+           <div className="section-body"><Publications /></div> 
+        </section>*/}
       </main>
     </>
   );

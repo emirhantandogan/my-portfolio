@@ -1,38 +1,80 @@
 [
   {
-    "title": "LLM Evaluator",
-    "company": "EPFL Lab",
-    "companyLink": "https://www.epfl.ch/",
-    "period": "2025",
-    "location": "Lausanne, Switzerland",
-    "projectUrl": "https://example.com/llm-evaluator",
-    "repo": "https://github.com/you/llm-evaluator",
-    "demo": "https://demo.example.com/llm-evaluator",
-    "image": "/images/profile.jpeg",
-    "description": "LLM çıktıları için otomatik değerlendirme ve metrik dashboard’u.",
-    "highlights": [
-      "Next.js + FastAPI backend",
-      "OpenAI function calling ve toolformer benzeri zincirler",
-      "Grafikler ve filtreli raporlar"
-    ]
-  },
-  {
-    "title": "Personal Portfolio",
-    "period": "2024",
-    "projectUrl": "https://your-site.com",
+    "title": "TicketToAI: Reinforcement Learning Agent for Ticket to Ride Board Game",
+    "period": "Oct 2024 – Jun 2025",
+    "location": null,
+    "projectUrl": "https://github.com/emirhantandogan/TickettoAI-DeepRL-models-for-TicketToRide-ddqn-ppo",
+    "repo": "https://github.com/emirhantandogan/TickettoAI-DeepRL-models-for-TicketToRide-ddqn-ppo",
+    "demo": null,
     "image": null,
-    "description": "Bootstrap temelli kişisel site. App Router, metadata, image optimizasyonu.",
-    "highlights": ["App Router", "Bootstrap 5", "Vercel deploy"]
+    "description": "Developing a digital version of the Ticket to Ride board game with concurrent AI matches and a Reinforcement Learning Agent.",
+    "highlights": [
+      "Built a digital version of Ticket to Ride with tournament panel and console interface",
+      "Implemented multiprocessing for managing multiple concurrent AI matches",
+      "Designed a Reinforcement Learning Agent to make optimal in-game decisions"
+    ]
   },
   {
-    "title": "Recommender System",
-    "company": "Startup X",
-    "period": "2023",
-    "repo": "https://github.com/you/recsys",
+    "title": "BidBot: The Adaptive Negotiation Agent",
+    "period": "Feb 2024 – May 2024",
+    "location": null,
+    "projectUrl": "https://scml.cs.brown.edu/anl2024",
+    "repo": null,
+    "demo": null,
+    "image": null,
+    "description": "Developed an adaptive automated negotiation agent for the ANL 2024 competition using the NegMAS framework.",
     "highlights": [
-      "Implicit feedback ALS",
-      "Batch + online güncelleme",
-      "A/B test entegrasyonu"
+      "Integrated modular architecture with dynamic bidding, opponent modeling, and acceptance strategies",
+      "Implemented hybrid Nice Tit-for-Tat and Boulware strategies",
+      "Applied performance testing across 2450 negotiations, outperforming competitors",
+      "Ranked 9th out of 40 agents in ANL 2024 competition"
     ]
-  }
+  },
+  {
+    "title": "PCO: Online Cafe Management System Software",
+    "period": "Sept 2023 – Jan 2024",
+    "location": null,
+    "projectUrl": "https://github.com/ChagataiDuru/CS320-Term-Project-ProCafeOnline",
+    "repo": "https://github.com/ChagataiDuru/CS320-Term-Project-ProCafeOnline",
+    "demo": null,
+    "image": null,
+    "description": "Cross-platform cafe management system with advanced database and customizable GUI.",
+    "highlights": [
+      "Developed with Python, SQLite, Tkinter, and ReportLab",
+      "Implemented fee calculation algorithms with adjustable currency and pricing",
+      "Added printing receipt feature and customizable GUI",
+      "Actively contributed to requirements, design, test, and analysis reports"
+    ]
+  },
+  {
+    "title": "Dream Dungeon: Rogue-Like Game Project",
+    "period": "Feb 2023 – Jul 2023",
+    "location": null,
+    "projectUrl": "https://emirhantandogan.itch.io/dream-dungeon",
+    "repo": null,
+    "demo": null,
+    "image": "/images/dreamdungeon.png",
+    "description": "A solo-developed 2D Top Down Shooter Rogue-Like mobile game with randomized dungeons and enemies.",
+    "highlights": [
+      "Implemented randomized dungeon generation and enemy AI with increasing difficulty",
+      "Created multiple attack types, magic systems, and power-ups for replay variety",
+      "Designed levels with 2D pixel art and URP lighting with shadow casting"
+    ]
+  },
+  {
+    "title": "Party Hide: Online Hide and Seek Party Game Project",
+    "period": "Feb 2023 – Jul 2023",
+    "location": null,
+    "projectUrl": "https://emirhantandogan.itch.io/partyhide",
+    "repo": null,
+    "demo": null,
+    "image": "/images/partyhide.png",
+    "description": "A 3D third-person multiplayer hide-and-seek party game developed solo using Unity and Photon Engine.",
+    "highlights": [
+      "Implemented multiple hide-and-seek game modes and themed maps",
+      "Developed custom lobbies with map choices and character creation",
+      "Created AI role-playing like online players using NavMesh",
+      "Integrated fast multiplayer networking with Photon Engine"
+    ]
+  }  
 ]

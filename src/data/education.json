@@ -1,35 +1,33 @@
 [
   {
-    "school": "EPFL (École Polytechnique Fédérale de Lausanne)",
-    "degree": "MSc Computer Science",
-    "period": "Sept 2023–March 2026",
-    "location": "Lausanne, Switzerland",
+    "school": "Politecnico di Milano",
+    "degree": "MSc Computer Science and Engineering",
+    "period": "Sept 2025 – Present",
+    "location": "Milan, Italy",
     "highlights": [
-      "CGPA: 5.25/6.00",
-      "Specialization: Data Analytics",
-      "Core Modules: Machine Learning, Modern Natural Language Processing, Applied Data Analysis, Reinforcement Learning"
+      "Specialization: Software Development for Complex Systems"
     ]
   },
   {
-    "school": "EPFL (École Polytechnique Fédérale de Lausanne)",
-    "degree": "MSc Computer Science",
-    "period": "Sept 2023–March 2026",
-    "location": "Lausanne, Switzerland",
+    "school": "Ozyegin University",
+    "degree": "BSc Computer Science",
+    "period": "Sept 2021 – June 2025",
+    "location": "Istanbul, Türkiye",
     "highlights": [
-      "CGPA: 5.25/6.00",
-      "Specialization: Data Analytics",
-      "Core Modules: Machine Learning, Modern Natural Language Processing, Applied Data Analysis, Reinforcement Learning"
+      "CGPA: 3.69/4.00",
+      "Specialization: Artificial Intelligence & Data Science",
+      "Graduated with distinction, ranked 4th in the department",
+      "Recipient of a Merit-based Scholarship for Academic Excellence"
     ]
   },
   {
-    "school": "EPFL (École Polytechnique Fédérale de Lausanne)",
-    "degree": "MSc Computer Science",
-    "period": "Sept 2023–March 2026",
-    "location": "Lausanne, Switzerland",
+    "school": "TED Kdz. Ereğli College",
+    "degree": "Secondary School Diploma",
+    "period": "Sept 2017–June 2021",
+    "location": "Zonguldak, Türkiye",
     "highlights": [
-      "CGPA: 5.25/6.00",
-      "Specialization: Data Analytics",
-      "Core Modules: Machine Learning, Modern Natural Language Processing, Applied Data Analysis, Reinforcement Learning"
+      "CGPA: 99.66/100",
+      "Awarded 100% tuition waiver for success in High School Entrance Exam"
     ]
   }
 ]

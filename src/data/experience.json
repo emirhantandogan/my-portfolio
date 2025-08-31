@@ -1,33 +1,41 @@
 [
   {
-    "company": "OpenAI",
-    "title": "Machine Learning Engineer",
-    "period": "2024 – Present",
-    "location": "San Francisco, CA",
-    "link": "https://openai.com",
-    "highlights": [
-      "LLM alignment ve değerlendirme altyapısı",
-      "Üretim sistemlerinde performans/bellek optimizasyonu",
-      "MLOps otomasyonları (train/eval/deploy)"]
-  },
-  {
-    "company": "EPFL Lab",
+    "company": "Ozyegin University",
     "title": "Research Assistant",
-    "period": "2023 – 2024",
-    "location": "Lausanne, Switzerland",
+    "period": "Aug 2023 – Present",
+    "location": "Istanbul, Turkey",
     "highlights": [
-      "Self-supervised representation learning",
-      "Deney sonuçlarının tekrarlanabilir pipeline'ı",
-      "Akademik makale hazırlığı ve veri temizliği"]
+      "Developed a Multi-CDN switching system based on client-side performance metrics to optimize content delivery",
+      "Implemented a content steering server with new conditions and algorithms for CDN switching",
+      "Conducted analysis on performance metrics across multiple CDNs using server-side content steering",
+      "Built demonstration websites for client and server-side Multi-CDN switching systems",
+      "Utilized technologies including JavaScript, Node.js, Service Workers, Python, Docker, Postman, AWS, Netem, and SQLite"
+    ]
   },
   {
-    "company": "Startup X",
-    "title": "Software Engineer Intern",
-    "period": "Summer 2022",
-    "location": "Remote",
+    "company": "TaleWorlds Entertainment",
+    "title": "Software Developer Intern",
+    "period": "Aug 2024 – Sept 2024",
+    "location": "Ankara, Turkey",
     "highlights": [
-      "Next.js + React ile dashboard geliştirme",
-      "Node.js API performans iyileştirmeleri",
-      "CI/CD ve test otomasyonları"]
+      "Collaborated with a team of developers on an unannounced game project using Unity and C#",
+      "Fixed AI attack pattern bugs and improved enemy AI using raycasting",
+      "Designed and developed an in-game inventory system with a custom scroll view UI component",
+      "Wrote shaders and developed a dynamic particle effect system to optimize visuals",
+      "Conducted extensive game testing, reporting and resolving bugs before integration"
+    ]
+  },
+  {
+    "company": "ASELSAN",
+    "title": "Software Developer Intern, Land and Naval Command Control Software Design Directorate",
+    "period": "Jun 2024 – Jul 2024",
+    "location": "Istanbul, Turkey",
+    "highlights": [
+      "Developed a Subsystem Interface Unit (SIU) enabling communication between devices and software using Java",
+      "Implemented MVC architecture with a user-friendly UI using Java Swing",
+      "Integrated UDP communication with the device using Interface Definition Language (IDL)",
+      "Utilized Data Distribution Service (DDS) for real-time and scalable data exchange",
+      "Tested software with Docklight and monitored network packets with Wireshark for debugging and optimization"
+    ]
   }
 ]

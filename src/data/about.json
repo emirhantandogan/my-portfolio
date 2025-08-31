@@ -1,24 +1,23 @@
 {
   "contact": {
-    "location": "Lausanne, Switzerland",
-    "email": "zeynep.tandogan@example.com"
+    "location": "Milano, Italy",
+    "email": "emirhantandogann@gmail.com"
   },
   "paragraphs": [
-    "Passionate computer scientist and EPFL MSc student specializing in data science, machine learning, and large language models (LLMs).",
-    "Experienced in building scalable AI systems, from LLM alignment to Mixture-of-Experts optimization with Megatron-LM.",
-    "Skilled in the full ML pipeline, including multi-GPU training, model evaluation, and deployment.",
-    "Motivated by the challenge of creating scalable, aligned AI systems that serve human needs."
+  "Computer Science and Engineering master's student at Politecnico di Milano with a strong focus on software development and full stack engineering.",
+  "Skilled in multiple programming languages and frameworks, with experience in web technologies, databases, cloud platforms, and game development.",
+  "Interested in building scalable applications, distributed systems, and innovative software solutions.",
+  "Strong team player with solid communication, problem-solving, and adaptability skills."
   ],
   "links": {
-    "cv": "/cv/Zeynep_Tandogan_CV.pdf",
-    "linkedin": "https://www.linkedin.com/in/zeyneptandogan/",
-    "github": "https://github.com/zeyneptandogan",
-    "scholar": "https://scholar.google.com/citations?user=MGq29kUAAAAJ&hl=en&authuser=2"
+    "cv": "/cv/Emirhan_Tandogan_CV__For_Job_.pdf",
+    "linkedin": "https://www.linkedin.com/in/emirhantandogan",
+    "github": "https://github.com/emirhantandogan"
   },
   "skills": {
-    "programmingLanguages": ["Python", "TypeScript", "C++", "Go"],
-    "toolsAndFrameworks": ["Next.js", "React", "PyTorch", "TensorFlow", "FastAPI", "Docker", "Kubernetes", "PostgreSQL"],
-    "coreCompetencies": ["LLM Alignment", "Mixture-of-Experts", "Distributed Training (DDP/ZeRO)", "Evaluation & Benchmarks", "MLOps", "Data Engineering"],
-    "softSkills": ["Communication", "Leadership", "Mentoring", "Teamwork", "Public Speaking"]
+    "programmingLanguages": ["Java", "Python", "C#", "C++", "MATLAB", "JavaScript", "Haskell"],
+    "toolsAndFrameworks": ["NextJS", "NodeJS", "Service Workers", "AWS", "Postman", "Unity", "Wireshark", "Docklight", "Netem", "User Datagram Protocol (UDP)", "Git", "PlasticSCM", "Docker", "Java Swing", "SQLite", "MySQL", "Tkinter", "PyTorch", "Data Distribution Service (DDS)", "BOA Framework"],
+    "coreCompetencies": ["Software Development", "Game Development", "Machine Learning"],
+    "softSkills": ["Team Collaboration", "Communication", "Problem-Solving", "Time Management", "Leadership", "Innovation", "Adaptability"]
   }
 }

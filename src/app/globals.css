@@ -109,12 +109,12 @@ a {
 }
 
 /* renkler aynı */
-.b1{ background: radial-gradient(35% 35% at 30% 30%, #ff6ec7 0 70%, transparent 71%); }
-.b2{ background: radial-gradient(35% 35% at 70% 70%, #6ec8ff 0 70%, transparent 71%); }
-.b3{ background: radial-gradient(35% 35% at 60% 20%, #ffd166 0 70%, transparent 71%); }
-.b4{ background: radial-gradient(35% 35% at 60% 20%, #4aff78 0 70%, transparent 71%); }
-.b5{ background: radial-gradient(35% 35% at 60% 20%, #7b6cff 0 70%, transparent 71%); }
-.b6{ background: radial-gradient(35% 35% at 60% 20%, #ff8a4d 0 70%, transparent 71%); }
+.b1{ background: radial-gradient(35% 35% at 30% 30%, #ff83f9 0 70%, transparent 71%); }
+.b2{ background: radial-gradient(35% 35% at 70% 70%, #8dd3ff 0 70%, transparent 71%); }
+.b3{ background: radial-gradient(35% 35% at 60% 20%, #b8ff8f 0 70%, transparent 71%); }
+.b4{ background: radial-gradient(35% 35% at 60% 20%, #e4ff81 0 70%, transparent 71%); }
+.b5{ background: radial-gradient(35% 35% at 60% 20%, #a298ff 0 70%, transparent 71%); }
+.b6{ background: radial-gradient(35% 35% at 60% 20%, #f37954 0 70%, transparent 71%); }
 
 /* Artık top/left KULLANMIYORUZ; başlangıç için 0,0 yeterli */
 .b1,.b2,.b3,.b4,.b5,.b6{ top:0; left:0; }
@@ -126,53 +126,53 @@ a {
 }
 
 /* INTRO */
-#snap-root[data-scene="intro"] .b1 { --x:  0vw;  --y: -12vh; }/* pink */
-#snap-root[data-scene="intro"] .b2 { --x: -10vw;  --y:  -8vh; }/* blue */
-#snap-root[data-scene="intro"] .b3 { --x:  5vw;  --y:  -1vh; }/* yellow */
+#snap-root[data-scene="intro"] .b1 { --x:  -5vw;  --y: -12vh; }/* pink */
+#snap-root[data-scene="intro"] .b2 { --x: -15vw;  --y:  -8vh; }/* blue */
+#snap-root[data-scene="intro"] .b3 { --x:  0vw;  --y:  -1vh; }/* yellow */
 #snap-root[data-scene="intro"] .b4 { --x: 80vw;  --y:  60vh; }/* green */
 #snap-root[data-scene="intro"] .b5 { --x: 70vw;  --y:  85vh; }/* purple */
 #snap-root[data-scene="intro"] .b6 { --x: 82vw;  --y:  85vh; }/* orange */
 
 /* ABOUT */
-#snap-root[data-scene="about"] .b1 { --x: 0vw;  --y:  12vh; }
-#snap-root[data-scene="about"] .b2 { --x: -8vw;  --y: 15vh; } 
-#snap-root[data-scene="about"] .b3 { --x: 0vw;  --y: 10vh; }
+#snap-root[data-scene="about"] .b1 { --x: -5vw;  --y:  12vh; }
+#snap-root[data-scene="about"] .b2 { --x: -13vw;  --y: 15vh; } 
+#snap-root[data-scene="about"] .b3 { --x: -7vw;  --y: 10vh; }
 #snap-root[data-scene="about"] .b4 { --x: 80vw;  --y:  47vh; }
 #snap-root[data-scene="about"] .b5 { --x: 75vw;  --y:  72vh; }
 #snap-root[data-scene="about"] .b6 { --x: 82vw;  --y:  67vh; }
 
 /* EDUCATION */
-#snap-root[data-scene="education"] .b1 { --x: 0vw;  --y: 25vh; }
-#snap-root[data-scene="education"] .b2 { --x: -10vw;  --y:  21vh; }
-#snap-root[data-scene="education"] .b3 { --x: -7vw;  --y: 15svh; }
-#snap-root[data-scene="education"] .b4 { --x: 80vw;  --y:  37vh; }
-#snap-root[data-scene="education"] .b5 { --x: 80vw;  --y:  72vh; }
-#snap-root[data-scene="education"] .b6 { --x: 82vw;  --y:  57vh; }
+#snap-root[data-scene="education"] .b1 { --x: -5vw;  --y: 32vh; }
+#snap-root[data-scene="education"] .b2 { --x: -15vw;  --y:  28vh; }
+#snap-root[data-scene="education"] .b3 { --x: -12vw;  --y: 22vh; }
+#snap-root[data-scene="education"] .b4 { --x: 80vw;  --y:  22vh; }
+#snap-root[data-scene="education"] .b5 { --x: 80vw;  --y:  62vh; }
+#snap-root[data-scene="education"] .b6 { --x: 82vw;  --y:  47vh; }
 
 /* EXPERIENCE */
-#snap-root[data-scene="experience"] .b1 { --x: 0vw;  --y: 33vh; }
-#snap-root[data-scene="experience"] .b2 { --x: -10vw;  --y:  29vh; }
-#snap-root[data-scene="experience"] .b3 { --x: -10vw;  --y:  28vh; }
-#snap-root[data-scene="experience"] .b4 { --x: 76vw;  --y:  27vh; }
-#snap-root[data-scene="experience"] .b5 { --x: 85vw;  --y:  62vh; }
-#snap-root[data-scene="experience"] .b6 { --x: 82vw;  --y:  47vh; }
+#snap-root[data-scene="experience"] .b1 { --x: -5vw;  --y: 43vh; }
+#snap-root[data-scene="experience"] .b2 { --x: -10vw;  --y:  39vh; }
+#snap-root[data-scene="experience"] .b3 { --x: -15vw;  --y:  38vh; }
+#snap-root[data-scene="experience"] .b4 { --x: 75vw;  --y:  13vh; }
+#snap-root[data-scene="experience"] .b5 { --x: 85vw;  --y:  48vh; }
+#snap-root[data-scene="experience"] .b6 { --x: 82vw;  --y:  33vh; }
 
 /* PROJECTS */
-#snap-root[data-scene="projects"] .b1 { --x: -4vw;  --y: 48vh; }
-#snap-root[data-scene="projects"] .b2 { --x: -5vw;  --y:  40vh; }
-#snap-root[data-scene="projects"] .b3 { --x: -10vw;  --y:  39vh; }
-#snap-root[data-scene="projects"] .b4 { --x: 74vw;  --y:  17vh; }
-#snap-root[data-scene="projects"] .b5 { --x: 80vw;  --y:  52vh; }
-#snap-root[data-scene="projects"] .b6 { --x: 82vw;  --y:  37vh; }
+#snap-root[data-scene="projects"] .b1 { --x: -5vw;  --y: 72vh; }
+#snap-root[data-scene="projects"] .b2 { --x: -5vw;  --y:  55vh; }
+#snap-root[data-scene="projects"] .b3 { --x: -13vw;  --y:  54vh; }
+#snap-root[data-scene="projects"] .b4 { --x: 65vw;  --y:  -5vh; }
+#snap-root[data-scene="projects"] .b5 { --x: 78vw;  --y:  20vh; }
+#snap-root[data-scene="projects"] .b6 { --x: 76vw;  --y:  -2vh; }
 
-/* PUBLICATIONS */
-#snap-root[data-scene="publications"] .b1 { --x: -2vw;  --y: 63vh; }
-#snap-root[data-scene="publications"] .b2 { --x: 0vw;  --y:  55vh; }
-#snap-root[data-scene="publications"] .b3 { --x: -8vw;  --y:  54vh; }
+/* PUBLICATIONS 
+#snap-root[data-scene="publications"] .b1 { --x: -5vw;  --y: 63vh; }
+#snap-root[data-scene="publications"] .b2 { --x: -5vw;  --y:  55vh; }
+#snap-root[data-scene="publications"] .b3 { --x: -13vw;  --y:  54vh; }
 #snap-root[data-scene="publications"] .b4 { --x: 65vw;  --y:  -1vh; }
 #snap-root[data-scene="publications"] .b5 { --x: 78vw;  --y:  24vh; }
 #snap-root[data-scene="publications"] .b6 { --x: 76vw;  --y:  2vh; }
-
+*/
 
 .navbar-custom{
   background: transparent;
