@@ -35,12 +35,6 @@ export default function RootLayout({ children }) {
         </nav>
 
         {children}
-
-        <footer className=" text-white text-center py-4" style={{ backgroundColor: "rgb(0, 0, 0)" }}>
-          <div className="container">
-            <p className="mb-0">&copy; <span id="year"></span> Your Name</p>
-          </div>
-        </footer>
       </body>
     </html>
   );
